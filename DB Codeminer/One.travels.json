@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66acddf0d6e56190797c3477"
+  },
+  "pilot": {
+    "$oid": "66ace9a8656f6f21a4c6d00d"
+  },
+  "origin": "Andvari",
+  "destination": "Calas",
+  "fuelConsumed": 20,
+  "date": {
+    "$date": "2024-08-02T13:24:00.463Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-02T13:24:00.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T13:24:00.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ad04925576435866d38dbd"
+  },
+  "pilot": {
+    "$oid": "66ace9c6656f6f21a4c6d011"
+  },
+  "origin": "Aqua",
+  "destination": "Demeter",
+  "fuelConsumed": 30,
+  "date": {
+    "$date": "2024-08-02T16:08:50.317Z"
+  },
+  "createdAt": {
+    "$date": "2024-08-02T16:08:50.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T16:08:50.321Z"
+  },
+  "__v": 0
+}]

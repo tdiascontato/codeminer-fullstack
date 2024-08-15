@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66ace939656f6f21a4c6d007"
+  },
+  "name": "Nebula Explorer",
+  "type": "Explorer",
+  "registrationNumber": "NE9101",
+  "capacity": 500,
+  "fuelLevel": 1212,
+  "weightCapacity": 20000,
+  "createdAt": {
+    "$date": "2024-08-02T14:12:09.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T14:22:46.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ace95f656f6f21a4c6d009"
+  },
+  "name": "Galactic Voyager",
+  "type": "Transporter",
+  "registrationNumber": "GV2022",
+  "capacity": 1000,
+  "fuelLevel": 300,
+  "weightCapacity": 50000,
+  "createdAt": {
+    "$date": "2024-08-02T14:12:47.858Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T14:12:47.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ace96c656f6f21a4c6d00b"
+  },
+  "name": "Star Cruiser",
+  "type": "Battle",
+  "registrationNumber": "SC3033",
+  "capacity": 800,
+  "fuelLevel": 250,
+  "weightCapacity": 30000,
+  "createdAt": {
+    "$date": "2024-08-02T14:13:00.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T14:13:00.396Z"
+  },
+  "__v": 0
+}]

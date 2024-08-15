@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "66ace18e9823aa2c3f1066fb"
+  },
+  "description": "Contrato de transporte de mercadorias",
+  "payload": 2000,
+  "origin": "Earth",
+  "destination": "Saturn",
+  "value": 15000,
+  "pilot": {
+    "$oid": "66ace9a8656f6f21a4c6d00d"
+  },
+  "createdAt": {
+    "$date": "2024-08-02T13:39:26.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T14:20:33.532Z"
+  },
+  "__v": 0,
+  "status": "accepted"
+},
+{
+  "_id": {
+    "$oid": "66ace1ac9823aa2c3f1066fd"
+  },
+  "description": "Contrato de transporte de mercadorias",
+  "payload": 5000,
+  "origin": "Earth",
+  "destination": "Saturn",
+  "value": 23000,
+  "pilot": {
+    "$oid": "66ace9c6656f6f21a4c6d011"
+  },
+  "createdAt": {
+    "$date": "2024-08-02T13:39:56.096Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T13:39:56.096Z"
+  },
+  "__v": 0
+}]

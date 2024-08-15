@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "66ace9a8656f6f21a4c6d00d"
+  },
+  "certification": "12445",
+  "name": "Manoela Dias",
+  "age": 20,
+  "credits": 9846,
+  "location": "Saturn",
+  "ship": {
+    "$oid": "66ace939656f6f21a4c6d007"
+  },
+  "contracts": [
+    {
+      "$oid": "66acf5bfa9338da76f33ed58"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-02T14:14:00.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T14:22:46.340Z"
+  },
+  "__v": 0,
+  "resources": [
+    {
+      "$oid": "66acf47d2465110eb5eae3e0"
+    },
+    {
+      "$oid": "66acf4962465110eb5eae3e6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66ace9c6656f6f21a4c6d011"
+  },
+  "certification": "13445",
+  "name": "Tiago Dias",
+  "age": 30,
+  "credits": 2000,
+  "location": "Marth",
+  "ship": {
+    "$oid": "66ace95f656f6f21a4c6d009"
+  },
+  "createdAt": {
+    "$date": "2024-08-02T14:14:30.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T14:14:30.895Z"
+  },
+  "__v": 0
+}]
