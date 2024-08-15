@@ -1,0 +1,58 @@
+.history {
+    padding: 16px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.table tr:hover {
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+.pagination {
+    margin-top: 16px;
+}
+
+.pagination button {
+    padding: 8px;
+    margin: 0 4px;
+    border: 1px solid #ddd;
+    background-color: #f4f4f4;
+}
+
+.pagination button.active {
+    background-color: #ddd;
+}
+
+.status_pending {
+    background-color: #b0b059;
+    color: white;
+    font-weight: bold;
+}
+
+.status_completed {
+    background-color: #39b739;
+    color: white;
+    font-weight: bold;
+}
+
+.status_cancelled {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+
+.status_absent {
+    background-color: #8c0404;
+    color: white;
+    font-weight: bold;
+}

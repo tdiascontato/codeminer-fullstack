@@ -1,0 +1,59 @@
+/*src/stylus/calendar.module.css*/
+.calendar {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.emptyHeader {
+    border: none;
+}
+
+.header {
+    border: none;
+    padding: 8px;
+    background-color: #f4f4f4;
+}
+
+.hour {
+    border: none;
+    padding: 8px;
+    background-color: #f4f4f4;
+}
+
+.cell {
+    border: 1px dashed #ddd;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+
+.event {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 12rem;
+    height: 5rem;
+    overflow: hidden;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    transition: 0.5s ease;
+}
+
+.event_name {
+    font-weight: bold;
+    font-size: large;
+    padding-top: 0.5rem;
+}
+
+.event_description {
+    text-align:match-parent;
+    font-size: medium;
+    text-indent: 0.5rem;
+}

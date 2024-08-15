@@ -1,0 +1,46 @@
+/* codeminer/frontend_codeminer/src/app/stylus/medicalTests.module.css */
+.medical_tests {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.toggleButton {
+    cursor: pointer;
+    padding: 8px 16px;
+    background-color: #787878;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    transition: ease 0.3s;
+}
+
+.toggleButton:hover {
+    background-color: #717171;
+    transition: ease 0.3s;
+}
+
+.patientList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.patientItem {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    transition: ease 0.3s;
+}
+
+.patientItem:hover {
+    background-color: #717171;
+    color: white;
+    transition: ease 0.3s;
+}
+
+.medical_tests_title {
+    font-weight: bold;
+    font-size: large;
+}
